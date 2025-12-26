@@ -1,0 +1,9 @@
+POM\Emp_add.class
+utilities\ReadData.class
+execution\test_run_01.class
+POM\loginpage.class
+loginsetup\AddemployeeDdt.class
+loginsetup\FB_login.class
+execution\runner.class
+POM\Logout.class
+loginsetup\Oranger_login_01.class
